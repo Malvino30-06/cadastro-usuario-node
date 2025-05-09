@@ -25,7 +25,7 @@ Este projeto é uma API simples de cadastro de usuários desenvolvida com Node.j
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Malvino30-06/cadastro-usuario-node.git
 ```
 
 2. Acesse a pasta do projeto:
